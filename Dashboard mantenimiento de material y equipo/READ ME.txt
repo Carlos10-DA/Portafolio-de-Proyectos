@@ -1,1 +1,29 @@
-El siguiente dashboard
+Industrial Equipment Maintenance & Operations Dashboard
+
+
+Descripción general 
+
+Sistema integral de monitoreo de mantenimiento industrial desarrollado en Power BI, diseñado para optimizar la disponibilidad de activos y controlar los costos operativos. El proyecto analiza el ciclo de vida del mantenimiento desde una perspectiva financiera, temporal y técnica, permitiendo una transición de un modelo reactivo a uno proactivo.
+
+Habilidades Técnicas Aplicadas
+Gestión de Activos (Asset Management): Monitoreo de indicadores críticos como Horas Fuera de Servicio (12.93 mil horas) y Costo Promedio de Mantenimiento ($15.49 mil).
+
+Análisis de Fiabilidad: Clasificación de fallas por sistema afectado (Suspensión, Transmisión, Motor, etc.) para identificar puntos críticos de falla.
+
+Mantenimiento Estratégico: Visualización de la proporción entre mantenimiento Preventivo (60.37%) y Correctivo (39.63%).
+
+Análisis de Carga y Rendimiento: Evaluación del impacto de las fallas por unidad específica (TC-004, TC-018) y por operador/obra asignada.
+
+Resultados y Estructura del Proyecto
+Información General: Vista de alto nivel de KPIs de costos por unidad y sistemas más afectados.
+
+Análisis Mensual: Seguimiento temporal de órdenes de mantenimiento y distribución de horas perdidas por zonas de trabajo (Obra Centro, Sur, Norte, Industrial).
+
+Matriz de Operaciones: Detalle granular de fallas por kilometraje y cruce de datos por operador para identificar posibles necesidades de capacitación o mal uso del equipo.
+
+Stack Tecnológico
+Power BI: Modelado de datos complejos con múltiples fuentes (Excel/SQL).
+
+DAX: Creación de medidas para promedios de costos y suma de horas de inactividad.
+
+Storytelling de Datos: Interfaz limpia con navegación por pestañas que permite pasar del resumen ejecutivo al detalle operativo de manera fluida.
