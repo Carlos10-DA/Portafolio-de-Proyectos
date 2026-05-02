@@ -1,1 +1,27 @@
-El siguiente ...
+Social Media Video Trends Analysis 
+
+Descripción general
+
+
+Dashboard interactivo de inteligencia de mercados desarrollado en Tableau para analizar las tendencias de contenido en plataformas de video a nivel global. El proyecto identifica qué tipos de contenido generan mayor tracción y cómo varían las preferencias de consumo según la ubicación geográfica (Estados Unidos, Francia, India, Japón y Rusia).
+
+Habilidades Técnicas Aplicadas
+Dominio de Tableau: Creación de dashboards dinámicos utilizando múltiples tipos de gráficos (barras, áreas apiladas y mapas de calor textuales).
+
+Análisis Comparativo Regional: Implementación de visualizaciones para contrastar el mercado de EE. UU. frente a tendencias globales.
+
+Gestión de Categorías: Procesamiento de grandes volúmenes de datos para clasificar contenido en nichos como Entertainment, Music, People & Blogs y Gaming.
+
+Diseño de Filtros Avanzados: Inclusión de controles interactivos de región y categoría que permiten al usuario realizar su propio descubrimiento de datos.
+
+Insights del Dashboard
+Categorías Líderes: Identificación de Entertainment y Music como las categorías con mayor frecuencia de tendencias de manera consistente.
+
+Distribución Global: Visualización de cómo la categoría People & Blogs tiene un peso significativamente mayor en ciertas regiones en comparación con otras.
+
+Foco en EE. UU.: Análisis específico que revela el dominio del entretenimiento y las noticias en el mercado estadounidense.
+
+Stack Tecnológico
+Tableau Desktop: Para la arquitectura de la visualización y el análisis exploratorio.
+
+Data Cleaning: Preparación de datos para asegurar la consistencia en los nombres de las categorías y las métricas de conteo de videos.
