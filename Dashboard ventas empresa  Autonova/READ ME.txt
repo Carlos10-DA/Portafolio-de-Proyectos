@@ -1,1 +1,34 @@
-El siguiente dashboard
+AutoNova: Marketing Performance & Sales Dashboard
+
+
+Descripción general
+
+Dashboard de inteligencia de negocios desarrollado en Power BI para la empresa automotriz AutoNova. El proyecto se centra en auditar la eficiencia de las campañas de marketing, analizando la conversión desde la generación de prospectos (Leads) hasta el cierre de Ventas, permitiendo optimizar el retorno de inversión publicitaria (ROAS).
+
+Habilidades Técnicas Aplicadas
+Marketing Analytics: Seguimiento del embudo de ventas (Funnel) con métricas clave: Leads Totales (15 mil), Ventas Totales (933) y Tasa de Conversión (0.06).
+
+Análisis de Rentabilidad: Cálculo dinámico del ROAS (171.84) e Ingreso Total ($257.92M) para evaluar la salud financiera de las campañas.
+
+Atribución por Canal: Evaluación del rendimiento comparativo entre Google Ads, Facebook Ads, Instagram, Email Marketing y Radio Local.
+
+Auditoría de Campañas: Implementación de un sistema de etiquetado de desempeño ("Campaña sobresaliente", "Aceptable", "A revisar") basado en el costo por venta y ROAS.
+
+Estructura del Dashboard
+Análisis por Canal: Identificación de Google Ads como el principal motor de ventas y generación de leads.
+
+Presupuesto vs. Ingreso: Gráfico combinado que contrasta la inversión publicitaria frente al retorno generado por cada campaña específica (ej. SUV Premium, Pickup Funnel).
+
+Detalle de Campaña: Tabla analítica granular con métricas de costo por lead, costo por venta y efectividad de cierre.
+
+Insights Estratégicos
+Eficiencia de Conversión: A pesar de tener presupuestos variados, las campañas de "Clientes Prospecto" y "Reactivación Final" muestran los niveles más altos de eficiencia operativa.
+
+Optimización de Gasto: Identificación de canales con alto costo por venta para la reasignación estratégica del presupuesto hacia campañas con mayor ROAS.
+
+Stack Tecnológico
+Power BI: Modelado de datos de ventas y marketing.
+
+DAX Avanzado: Fórmulas para el cálculo de tasas de conversión, ROAS y KPIs financieros dinámicos.
+
+Diseño UX: Navegación optimizada mediante pestañas para diferentes niveles de análisis (Canal, Presupuesto, Detalle).
