@@ -1,1 +1,25 @@
-El siguiente dashboard
+
+Descripción general
+
+El siguiente Dashboard operativo y financiero desarrollado en Power BI para la gestión de una clínica veterinaria. El proyecto centraliza indicadores de ingresos y servicios, permitiendo a la administración optimizar la toma de decisiones basada en el rendimiento de médicos, tipos de pacientes y estacionalidad de los servicios.
+
+Habilidades Técnicas Aplicadas
+Análisis Financiero: Seguimiento de ingresos totales ($15.89M) y análisis de montos pagados por categoría.
+
+Visualización Temporal: Gráfico de líneas para identificar picos de facturación mensual (ej. incrementos notables en marzo y septiembre).
+
+Segmentación de Negocio: Análisis de rentabilidad por tipo de animal (Gatos y Aves como líderes en ingresos) y por servicios prestados.
+
+Control Operativo: Evaluación del desempeño del personal médico (métrica por veterinario) y estado de procedimientos específicos (Esterilización).
+
+Insights Estratégicos
+Distribución de Ingresos: El mercado de pacientes está equitativamente dividido entre animales esterilizados (50.6%) y no esterilizados (49.4%), lo que sugiere oportunidades para campañas preventivas.
+
+Servicios Críticos: Los servicios de Emergencia y Control de peso representan las principales fuentes de ingresos por categoría.
+
+Rendimiento Médico: Identificación clara de los médicos con mayor volumen de facturación (Dr. Conley y Dr. Price), facilitando el balance de carga de trabajo.
+
+Stack Tecnológico
+Power BI: Modelado de datos y DAX para métricas financieras.
+
+Diseño UX (Dark Mode): Interfaz moderna en modo oscuro que mejora el contraste y resalta los KPIs críticos para una lectura rápida.
